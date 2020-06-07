@@ -1,4 +1,5 @@
-# Databasehttps://github.com/zeynepdinc12/Database/edit/master/README.md
+# Database
+
 
 Bu uygulama bir masaüstü uygulaması olup, C# dilinde MSSQL ile bilgisayarınızda veritabanı işlemleri için kolaylık sağlar.
 Algoritma;
