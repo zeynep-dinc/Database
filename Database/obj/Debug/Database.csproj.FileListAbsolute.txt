@@ -1,0 +1,8 @@
+C:\Users\Zeynep\source\repos\Database\bin\Debug\Database.dll
+C:\Users\Zeynep\source\repos\Database\bin\Debug\Database.pdb
+C:\Users\Zeynep\source\repos\Database\obj\Debug\Database.csprojAssemblyReference.cache
+C:\Users\Zeynep\source\repos\Database\obj\Debug\Database.csproj.GenerateResource.cache
+C:\Users\Zeynep\source\repos\Database\obj\Debug\Database.csproj.CoreCompileInputs.cache
+C:\Users\Zeynep\source\repos\Database\obj\Debug\Database.dll
+C:\Users\Zeynep\source\repos\Database\obj\Debug\Database.pdb
+C:\Users\Zeynep\source\repos\Database\obj\Debug\Database.Form.resources
